@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Profil \"1\"": {
+      "commandName": "Executable",
+      "executablePath": "J:\\DarkVServer\\altv-server.exe",
+      "workingDirectory": "J:\\DarkVServer"
+    }
+  }
+}
